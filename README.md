@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-
-**cjhewitt14/cjhewitt14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I'm CJ!
 
 - 🔭 I’m currently working on finishing school and working on my health
 - 🌱 I’m currently learning Web Development and it has been a struggle
